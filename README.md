@@ -26,7 +26,7 @@ This project was built:
 | CSS3             | Styling                          |
 | Google Fonts     | Typography (Poppins, Georgia)    |
 | Semantic Elements| Accessibility & Best Practices   |
-
+| CSS Transition   | Smooth animation on hover        |
 ---
 
 ## 🚀 How to View
